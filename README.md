@@ -1,1 +1,1 @@
-# SpringBootTutorial
+# spring-boot-rest-example
